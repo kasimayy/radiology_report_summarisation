@@ -1,0 +1,15 @@
+data/
+metric_results/
+miccai/
+paper/
+trained_models/
+common/
+code/build
+code/testnbs
+code/brainct
+code/coco
+*.ipynb_checkpoints
+*Makefile
+*setup.py
+*.pkl
+.idea/*
