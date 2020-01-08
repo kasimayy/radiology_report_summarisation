@@ -1,5 +1,8 @@
-data/*
-!data/raw/
+data/proc/
+data/dicts/
+data/test/
+data/train/
+data/val/
 metric_results/
 miccai/
 paper/
@@ -14,3 +17,4 @@ code/coco
 *setup.py
 *.pkl
 .idea/*
+*.json
